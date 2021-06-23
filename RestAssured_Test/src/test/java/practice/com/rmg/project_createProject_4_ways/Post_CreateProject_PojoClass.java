@@ -9,7 +9,7 @@ import org.json.simple.JSONObject;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-import com.rmg.project.pojoObjectLib.Project;
+import com.rmg.api.project.pojoObjectLib.Project;
 
 import io.restassured.RestAssured;
 import io.restassured.builder.RequestSpecBuilder;

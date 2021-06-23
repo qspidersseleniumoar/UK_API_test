@@ -1,4 +1,4 @@
-package com.rmg.project.pojoObjectLib;
+package com.rmg.api.project.pojoObjectLib;
 /**
  * pojo class
  * @author Deepak
