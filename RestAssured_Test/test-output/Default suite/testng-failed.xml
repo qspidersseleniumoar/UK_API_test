@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="practice.com.rmg.responseValidation.CaptureAllREpoNameGit">
+      <class name="com.rmg.api.projecttest.CreateProjectwith_InValid_statusTest3">
         <methods>
-          <include name="getAllRepoForUSer"/>
+          <include name="createAndVerify"/>
         </methods>
-      </class> <!-- practice.com.rmg.responseValidation.CaptureAllREpoNameGit -->
+      </class> <!-- com.rmg.api.projecttest.CreateProjectwith_InValid_statusTest3 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
